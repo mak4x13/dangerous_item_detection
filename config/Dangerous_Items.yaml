@@ -1,0 +1,14 @@
+
+path: /content/drive/MyDrive/Dangerous_Items
+
+train: images/train
+val: images/val
+test: images/test
+
+nc: 5
+names:
+  - machete
+  - knife
+  - baseball_bat
+  - rifle
+  - gun

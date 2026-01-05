@@ -1,0 +1,4 @@
+ultralytics==8.3.247
+opencv-python
+matplotlib
+torch>=2.0
