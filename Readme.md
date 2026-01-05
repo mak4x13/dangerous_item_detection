@@ -32,7 +32,7 @@ pip install -r requirements.txt
 
 Real-Time Detection (Webcam)
 ```bash
-python realtime_detect.py
+python realtime_detection.py
 ```
 Press q to exit the webcam window.
 
