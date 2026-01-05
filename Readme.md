@@ -36,7 +36,7 @@ python realtime_detection.py
 ```
 Press q to exit the webcam window.
 
-Recommended confidence threshold: 0.25
+Recommended confidence threshold: 0.30
 
 Training Your Own Model
 Place your dataset in the following structure:
